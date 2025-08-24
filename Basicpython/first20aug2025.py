@@ -4,4 +4,4 @@ contact = int(input("Please enter contact number: "))
 address = input("Please enter address: ")
 age = int(input("Please enter age: "))
 
-print(f"\nOur detail:\n{firstname}, \n{lastname}, \n{contact}, \n{address}, \n{age}")
+print(f"\nOur detail:\nFirst name: {firstname}, \nLast name: {lastname}, \nContact: {contact}, \nAddress: {address}, \nAge: {age}")
